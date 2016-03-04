@@ -17,11 +17,13 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "_themes/**"
         ],
         "exclude": [
           "**/obj/**",
-          "fenxu_docs_prod/**"
+          "fenxu_docs_prod/**",
+          "_themes/DocPacker/**"
         ],
         "src": null,
         "dest": null

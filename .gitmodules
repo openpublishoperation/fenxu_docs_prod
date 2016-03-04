@@ -1,0 +1,4 @@
+[submodule "themes for fenxu_docs_prod"]
+	path = fenxu_docs_prod/_themes
+	url = https://github.com/Microsoft/templates.docs.msft
+	branch = master
